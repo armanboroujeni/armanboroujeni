@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A 28 years old self-taught DevOps & Backend - Frontend developer from Iran. 
+A 24 years old self-taught Backend - Frontend developer from Iran. 
 
 <!--<p align="center">
   <a href="http://blog.akhi.ir">
@@ -15,35 +15,13 @@ A 28 years old self-taught DevOps & Backend - Frontend developer from Iran.
 
 ---
 ### 📢 Find me
-  [![telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://www.t.me/md_akhi/)
-  [![Instagram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg)](https://www.instagram.com/md_akhi2/)
-  [![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg)](https://twitter.com/md72ahki)
-  [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/md-akhi)
-  [![gmail](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg)](mailto:md.akhi.ir@gmail.com)
-  [![email_me](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg)](mailto:md@akhi.ir)
+  [![telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://www.t.me/arman_dev_ll)
+  [![Instagram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg)](https://www.instagram.com/armanboroujeni/)
+  [![Twitter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg)](https://twitter.com/armanboroujeni)
+  [![LinkedIn](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/armanboroujeni)
+  [![gmail](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg)](mailto:armanboroujeni@gmail.com)
+  [![email_me](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg)](mailto:info@armanboroujeni.com)
   
-<!--<p align="center">
-  <a href="https://www.instagram.com/md_akhi2/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.t.me/md_akhi2/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://twitter.com/md72ahki">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>  
-  <a href="https://www.linkedin.com/in/md-akhi/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="mailto:md.akhi.ir@gmail.com">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="mailto:md@akhi.ir">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:4px">
-  </a>
-</p>
--->
-
 ---
 ### 🚧 I build with...
 .
@@ -51,9 +29,8 @@ A 28 years old self-taught DevOps & Backend - Frontend developer from Iran.
 ---
 ### 📊 GitHub Stats...
 <div align="center"><!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=md-akhi&theme=dark&show_icons=true&count_private=true" width='49%'/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhi&theme=dark&layout=compact&show_icons=true&count_private=true" width='41%'/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=md72akhi&theme=dark&show_icons=true&count_private=true"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=armanboroujeni&theme=dark&show_icons=true&count_private=true" width='49%'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanboroujeni&theme=dark&layout=compact&show_icons=true&count_private=true" width='41%'/>
 </div>
  
 <!--
