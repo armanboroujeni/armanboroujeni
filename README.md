@@ -9,11 +9,6 @@ A 24 years old self-taught Backend - Frontend developer from Iran.
 </p>-->
 
 ---
-### 🌱 I’m currently learning
-.
-
-
----
 ### 📢 Find me
   [![telegram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://www.t.me/arman_dev_ll)
   [![Instagram](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg)](https://www.instagram.com/armanboroujeni/)
@@ -23,10 +18,6 @@ A 24 years old self-taught Backend - Frontend developer from Iran.
   [![email_me](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg)](mailto:info@armanboroujeni.com)
   
 ---
-### 🚧 I build with...
-.
-
----
 ### 📊 GitHub Stats...
 <div align="center"><!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=armanboroujeni&theme=dark&show_icons=true&count_private=true" width='49%'/>
@@ -34,8 +25,6 @@ A 24 years old self-taught Backend - Frontend developer from Iran.
 </div>
  
 <!--
-**md-akhi/md-akhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
